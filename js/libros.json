@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "imagen": "/img/el_ultimo_deseo.jpg",
+      "titulo": "El Último Deseo.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1100,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "imagen": "/img/la_espada_del_destino.jpg",
+      "titulo": "La Espada del Destino.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1090,
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "imagen": "/img/la_sangre_de_los_elfos.jpg",
+      "titulo": "La Sangre de los Elfos.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1090,
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "imagen": "/img/tiempo_de_odio.jpg",
+      "titulo": "Tiempo de Odio.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1200,
+      "stock": 13
+    },
+    {
+      "id": 5,
+      "imagen": "/img/bautismo_de_fuego.jpg",
+      "titulo": "Bautismo de Fuego.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1190,
+      "stock": 19
+    },
+    {
+      "id": 6,
+      "imagen": "/img/la_torre_de_la_golondrina.jpg",
+      "titulo": "La Torre de la Golondrina",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1190,
+      "stock": 11
+    },
+    {
+      "id": 7,
+      "imagen": "/img/la_dama_del_lago.jpg",
+      "titulo": "La Dama del Lago.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1390,
+      "stock": 17
+    },
+    {
+      "id": 8,
+      "imagen": "/img/estacion_de_las_tormentas.jpg",
+      "titulo": "Estación de las Tormentas.",
+      "autor": "Andrzej Sapkowski",
+      "precio": 1500,
+      "stock": 26
+    },
+    {
+      "id": 9,
+      "imagen": "/img/juego_de_tronos.jpg",
+      "titulo": "Juego de Tronos.",
+      "autor": "George R.R Martin",
+      "precio": 1190,
+      "stock": 10
+    },
+    {
+      "id": 10,
+      "imagen": "/img/choque_de_reyes.jpg",
+      "titulo": "Choque de Reyes.",
+      "autor": "George R.R Martin",
+      "precio": 1590,
+      "stock": 8
+    },
+    {
+      "id": 11,
+      "imagen": "/img/tormenta_de_espadas.jpg",
+      "titulo": "Tormenta de Espadas.",
+      "autor": "George R.R Martin",
+      "precio": 1590,
+      "stock": 9
+    },
+    {
+      "id": 12,
+      "imagen": "/img/festin_de_cuervos.jpg",
+      "titulo": "Festín de Cuervos.",
+      "autor": "George R.R Martin",
+      "precio": 1590,
+      "stock": 15
+    },
+    {
+      "id": 13,
+      "imagen": "/img/danza_de_dragones.jpg",
+      "titulo": "Danza de dragones.",
+      "autor": "George R.R Martin",
+      "precio": 1590,
+      "stock": 10
+    },
+    {
+      "id": 14,
+      "imagen": "/img/culpa_mia.jpg",
+      "titulo": "Culpa Mía.",
+      "autor": "Mercedes Ron",
+      "precio": 790,
+      "stock": 20
+    },
+    {
+      "id": 15,
+      "imagen": "/img/culpa_tuya.jpg",
+      "titulo": "Culpa Tuya.",
+      "autor": "Mercedes Ron",
+      "precio": 750,
+      "stock": 30
+    },
+    {
+      "id": 16,
+      "imagen": "/img/culpa_nuestra.jpg",
+      "titulo": "Culpa Nuestra.",
+      "autor": "Mercedes Ron",
+      "precio": 790,
+      "stock": 35
+    }
+  ]
